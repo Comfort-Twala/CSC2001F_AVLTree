@@ -16,9 +16,9 @@ def main():
     Main method to initiate graphing
     """
     df = data_frame_create()
-    for n in range(500, 5001, 500):
+    for n in range(200, 2001, 200):
         data = []
-        for data_struc in ["Array", "BST"]:
+        for data_struc in ["Array", "AVL"]:
             data += getdata(f"data/experiment/analysis/{data_struc}_n_{n}.txt")
         populate_data_frame(df, data, n)
 
@@ -43,7 +43,7 @@ def data_frame_create():
     """
     Create a DataFrame
     """
-    index = pd.MultiIndex.from_arrays([['Array' for i in range(0,3)]+['BST' for i in range(0,3)], ['best_case', 'worst_case', 'average_case']*2])    
+    index = pd.MultiIndex.from_arrays([['Array' for i in range(0,3)]+['AVL' for i in range(0,3)], ['best_case', 'worst_case', 'average_case']*2])    
     df = pd.DataFrame(columns=index)
     return df
 

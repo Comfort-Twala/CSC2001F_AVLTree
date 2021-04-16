@@ -16,10 +16,10 @@ def main():
     Main method to run expiriment.
     paramenter - App on which to run the experiment on.
     """
-    for n in range(500, 5001, 500):
+    for n in range(200, 2001, 200):
         subset = create_subset(n)
         runArray(subset)
-        runBST(subset)
+        runAVL(subset)
 
 def runArray(subset):
     """
@@ -31,14 +31,14 @@ def runArray(subset):
             os.system(f"make runArray ID={id} >> {f.name}")
 
 
-def runBST(subset):
+def runAVL(subset):
     """
-    Function to run AccessBSTApp on every value in subset and write the results into file BST_subset_{n}.txt
+    Function to run AccessAVLApp on every value in subset and write the results into file AVL_subset_{n}.txt
     """        
-    with open(f'data/experiment/BST_subset_n_{len(subset)}.txt', 'w') as f:
+    with open(f'data/experiment/AVL_subset_n_{len(subset)}.txt', 'w') as f:
         for detail in subset:
             id = detail.split(" ")[0]
-            os.system(f"make runBST ID={id} >> {f.name}")
+            os.system(f"make runAVL ID={id} >> {f.name}")
 
 def create_subset(n):
     """
