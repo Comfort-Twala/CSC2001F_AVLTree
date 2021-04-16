@@ -1,4 +1,4 @@
-# Assignment 1 program makefile
+# Assignment 2 program makefile
 # Comfort Twala
 
 JAVA=/usr/bin/java
@@ -14,7 +14,7 @@ SCRIPTDIR=script
 $(BINDIR)/%.class:$(SRCDIR)/%.java
 		$(JAVAC) -d $(BINDIR)/ -cp $(BINDIR) $<
 
-CLASSES=BinaryTreeNode.class BTQueueNode.class BTQueue.class BinaryTree.class BinarySearchTree.class BinarySearchTreeTest.class Student.class fileHandler.class ArrayApp.class BSTApp.class AccessArrayApp.class AccessBSTApp.class
+CLASSES=BinaryTreeNode.class BTQueueNode.class BTQueue.class BinaryTree.class AVLTree.class AVLTreeTest.class Student.class fileHandler.class ArrayApp.class AVLApp.class AccessArrayApp.class AccessAVLApp.class
 
 CLASS_FILES=$(CLASSES:%.class=$(BINDIR)/%.class)
 
@@ -26,8 +26,8 @@ clean:
 runArray: $(CLASS_FILES)
 		$(JAVA) -cp $(BINDIR) AccessArrayApp $(ID)
 
-runBST: $(CLASS_FILES)
-		$(JAVA) -cp $(BINDIR) AccessBSTApp $(ID)
+runAVL: $(CLASS_FILES)
+		$(JAVA) -cp $(BINDIR) AccessAVLApp $(ID)
 
 docs:
 		$(JAVADOC) -d $(DOCDIR) $(SRCDIR)/*
