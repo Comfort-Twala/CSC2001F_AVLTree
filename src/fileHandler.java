@@ -15,7 +15,7 @@ import java.util.Scanner;
 public class fileHandler {
 	//Instance variables
 	private Student[] rawData; 
-	private BinarySearchTree<Student> tree;
+	private AVLTree<Student> tree;
 	private Scanner fileReader;
 
 	/**
@@ -26,7 +26,7 @@ public class fileHandler {
 	 */
 	public fileHandler(String file) throws FileNotFoundException{
 		this.rawData = new Student[5000];
-		this.tree = new BinarySearchTree<>();
+		this.tree = new AVLTree<>();
 		this.fileReader = new Scanner(new File(file));
 	}
 
@@ -56,7 +56,7 @@ public class fileHandler {
 	 * 
 	 * @return tree
 	 */
-	public BinarySearchTree<Student> dataTree() {
+	public AVLTree<Student> dataTree() {
 		populate("tree");
 		return this.tree;		
 	}

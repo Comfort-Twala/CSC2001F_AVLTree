@@ -1,22 +1,22 @@
 import java.io.FileNotFoundException;
 
 /**
- * Class that creates BinarySearchTree from data list received from file
+ * Class that creates AVLTree from data list received from file
  * 
  * @author TWLCOM001 - Comfort Twala
  * @version 1.0
  */
-public class BSTApp {
+public class AVLApp {
     // Instance variables
     private fileHandler file;
-    private BinarySearchTree<Student> tree;
+    private AVLTree<Student> tree;
 
 	/**
 	 * Constructor to craete and assign values to BSTApp
 	 * 
 	 * @throws FileNotFoundException
 	 */
-    public BSTApp() throws FileNotFoundException{
+    public AVLApp() throws FileNotFoundException{
         this.file = new fileHandler("data/oklist.txt");
         this.tree = file.dataTree();
     }
