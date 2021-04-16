@@ -1,2 +1,0 @@
-/usr/bin/java -cp bin AccessArrayApp KAITOO001
-Access Denied!

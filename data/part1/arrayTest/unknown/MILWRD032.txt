@@ -1,2 +1,0 @@
-/usr/bin/java -cp bin AccessArrayApp MILWRD032
-Access Denied!

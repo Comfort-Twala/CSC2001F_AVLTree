@@ -1,3 +1,0 @@
-/usr/bin/java -cp bin AccessArrayApp BKSAVA009
-Ava Beukes
-4334

@@ -1,2 +1,0 @@
-/usr/bin/java -cp bin AccessArrayApp TRFKON002
-Access Denied!

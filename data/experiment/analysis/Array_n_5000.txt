@@ -1,7 +1,0 @@
-Analysis of ArrayApp when n is 5000:
-Minimum (Best Case):
-1
-Maximum (Worst Case):
-5000
-Average:
-2500.5

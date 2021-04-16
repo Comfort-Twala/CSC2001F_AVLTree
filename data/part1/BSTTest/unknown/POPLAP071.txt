@@ -1,2 +1,0 @@
-/usr/bin/java -cp bin AccessArrayApp POPLAP071
-Access Denied!

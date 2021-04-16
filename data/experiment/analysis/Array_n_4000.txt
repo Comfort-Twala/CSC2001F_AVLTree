@@ -1,7 +1,0 @@
-Analysis of ArrayApp when n is 4000:
-Minimum (Best Case):
-1
-Maximum (Worst Case):
-4998
-Average:
-2510.45075

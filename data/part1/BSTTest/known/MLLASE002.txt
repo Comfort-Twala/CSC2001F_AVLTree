@@ -1,2 +1,0 @@
-/usr/bin/java -cp bin AccessBSTApp MLLASE002
-Asemahle Maluleke

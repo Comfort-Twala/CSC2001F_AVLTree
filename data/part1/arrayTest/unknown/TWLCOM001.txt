@@ -1,2 +1,0 @@
-/usr/bin/java -cp bin AccessArrayApp TWLCOM001
-Access Denied!

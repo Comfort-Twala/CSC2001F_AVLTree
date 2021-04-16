@@ -1,7 +1,0 @@
-Analysis of BSTApp when n is 4500:
-Minimum (Best Case):
-4
-Maximum (Worst Case):
-100
-Average:
-59.07822222222222

@@ -1,7 +1,0 @@
-Analysis of BSTApp when n is 2500:
-Minimum (Best Case):
-4
-Maximum (Worst Case):
-100
-Average:
-59.1472
