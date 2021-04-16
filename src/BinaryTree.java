@@ -5,12 +5,10 @@
 public class BinaryTree<dataType>
 {
    BinaryTreeNode<dataType> root;
-   int opCount;
    
    public BinaryTree ()
    {
       root = null;
-      opCount = 0;
    }
    
    public int getHeight ()
@@ -100,13 +98,4 @@ public class BinaryTree<dataType>
             q.enQueue (node.getRight ());
       }
    }
-
-   // Instrumentation Methods
-   public void incrementOpCount(){
-      opCount++;
-   }
-
-	public int opCounter() {
-		return this.opCount;
-	}
 }
