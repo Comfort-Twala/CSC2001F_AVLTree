@@ -1,0 +1,2500 @@
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MGLAMA014
+Amahle Mogale
+44
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp SHBBLE016
+Blessing Shabangu
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MLTMEL024
+Melokuhle Malatji
+88
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BKSAMA002
+Amahle Beukes
+56
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MNSREM011
+Remofilwe Mnisi
+72
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp WLLLEA010
+Leano Williams
+52
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NKNLUK009
+Luke Nkuna
+48
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp KHZIMI009
+Iminathi Khoza
+56
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp CHKNKO014
+Nkosenhle Chauke
+48
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp DVDMEL024
+Melokuhle Davids
+40
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp JCKLES015
+Lesedi Jack
+76
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BTHKAT024
+Katleho Buthelezi
+48
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp KHZREA010
+Reatlegile Khoza
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MTNLIN020
+Lingomso Motaung
+76
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp PTRORA021
+Oratilwe Petersen
+52
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MNGMPH008
+Mpho Moeng
+80
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp TSHKUN014
+Kungawo Tshabalala
+72
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BRHLUK001
+Luke Abrahams
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp WTBREA002
+Reatlegile Witbooi
+32
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp DMSBON002
+Bonolo Adams
+44
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MLXELI010
+Elijah Moloi
+84
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp DLMLET017
+Lethabo Dlamini
+52
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BRHKAR012
+Karabo Abrahams
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MHLKAT093
+Katlego Mohlala
+52
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp DLMFAI001
+Faith Dlamini
+52
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BXXAMO055
+Amohelang Booi
+32
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp JCBRET019
+Rethabile Jacobs
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp KHMNOA003
+Noah Khumalo
+56
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NGCHLE005
+Hlelokuhle Ngcobo
+48
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NKNOFE019
+Ofentse Nkuna
+32
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BXXPHI007
+Philasande Booi
+48
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NGCLIK024
+Likuwe Ngcobo
+72
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp LYNKAT004
+Katleho Olyn
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MLFKUN002
+Kungawo Molefe
+36
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp SHBAVA015
+Ava Shabangu
+72
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp PTRREN026
+Reneilwe Peter
+44
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp DYNORA024
+Oratile Dyantyi
+56
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp HNDSIP028
+Siphosethu Hendricks
+52
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MNGBAY012
+Bayanda Moeng
+96
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp PTRREA046
+Reatlegile Peter
+44
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BTHLES007
+Lesedi Buthelezi
+44
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp DNLAVA007
+Ava Daniels
+44
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BYSIMI026
+Iminathi Booysen
+56
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp PTRLEB021
+Lebogang Petersen
+36
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp LWXANG009
+Angel Louw
+44
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MTLALU006
+Alunamda Motloung
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MGLMEL012
+Melokuhle Mogale
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp DNLREL018
+Relebohile Daniels
+72
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp TSHLET017
+Lethokuhle Tshabalala
+36
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MLXREM014
+Remofilwe Moloi
+76
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp DVDBOK018
+Bokamoso Davids
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp STHSIP016
+Siphesihle Sithole
+56
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MNSPHI014
+Philasande Mnisi
+56
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp KLSLES018
+Lesedi Klaas
+24
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp CHKHLE011
+Hlelokuhle Chauke
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MNGENZ020
+Enzokuhle Moeng
+92
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp WLLAMO042
+Amogelang Williams
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MLTKAM024
+Kamogelo Malatji
+36
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MHLKAR034
+Karabo Mohlala
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BTHKAT001
+Katlego Buthelezi
+44
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp RDBLIA003
+Liam Radebe
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NKSKAM002
+Kamogelo Nkosi
+72
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp TSHBOK010
+Bokamoso Tshabalala
+80
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BTHAYA002
+Ayabonga Buthelezi
+36
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp WTBNAL002
+Naledi Witbooi
+24
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp TSHLIK009
+Likuwe Tshabalala
+44
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp DMSLES022
+Lesedi Adams
+40
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MLXKAT030
+Katlego Moloi
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp JCKLEA017
+Leah Jack
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BXXKUN028
+Kungawo Booi
+32
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp KHMAMO019
+Amogelang Khumalo
+76
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp DLMLIN007
+Lingomso Dlamini
+48
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp DVDAMA009
+Amahle Davids
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NGCENZ014
+Enzokuhle Ngcobo
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MGLKAT020
+Katlego Mogale
+52
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MLLKAM012
+Kamogelo Maluleke
+48
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp DYNOMP019
+Omphile Dyantyi
+52
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MTLOMA027
+Omaatla Motloung
+84
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp PTRSIP013
+Siphosethu Peter
+44
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NKSPHI004
+Philasande Nkosi
+48
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NDLNKO008
+Nkosenhle Ndlovu
+84
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp DMSRET005
+Rethabile Adams
+52
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp KLSLEA028
+Leano Klaas
+44
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MDXKAR012
+Karabo Mudau
+76
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MKHMIA014
+Mia Mkhize
+56
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MLXLIK004
+Likuwe Moloi
+56
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp DNLAPH002
+Aphelele Daniels
+52
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp SHBCAL017
+Caleb Shabangu
+76
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MDXKAR010
+Karabo Mudau
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NGWBAN001
+Banele Ngwenya
+76
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp VNXOMP014
+Omphile Van
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp TSTAMO018
+Amohelang Tsotetsi
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BLYOTH027
+Othalive Baloyi
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp PTROLE009
+Olerato Peter
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp DYNFAI011
+Faith Dyantyi
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp LWXOTH003
+Othalive Louw
+40
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp VNXPHE002
+Phenyo Van
+80
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MLXLIN009
+Lingomso Moloi
+84
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NKSLEB011
+Lebogang Nkosi
+56
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NGCLET009
+Lethokuhle Ngcobo
+48
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp JCBMIN015
+Minenhle Jacobs
+44
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NDLANG009
+Angel Ndlovu
+44
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MDXKUN021
+Kungawo Mudau
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp PTRKAT004
+Katlego Peter
+44
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp PTRTSH040
+Tshegofatso Petersen
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp DLMOFE012
+Ofentse Dlamini
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MKHAVA012
+Ava Mkhize
+48
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp TSTOLO012
+Olothando Tsotetsi
+52
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp SHBKAR012
+Karabo Shabangu
+76
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MFKSIP005
+Siphesihle Mofokeng
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BRHIMI020
+Iminathi Abrahams
+48
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BRHBLE005
+Blessing Abrahams
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp CLTOFE022
+Ofentse Cloete
+56
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MDKONT010
+Onthatile Madikizela
+36
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MLXLWA018
+Lwandle Moloi
+76
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp VNXNOA012
+Noah Van
+76
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MFKKAT005
+Katlego Mofokeng
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MDSTHA021
+Thandolwethu Modise
+76
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MLXLEB009
+Lebogang Moloi
+72
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MLXLEA014
+Leah Moloi
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BRHLET027
+Lethokuhle Abrahams
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MFKKHA008
+Khayone Mofokeng
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NKSNOA003
+Noah Nkosi
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MKHREA002
+Reatlegile Mkhize
+52
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MDSTHA004
+Thato Modise
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp RDBONT019
+Onthatile Radebe
+72
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NHLAPH014
+Aphelele Nhlapo
+76
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BYSLET030
+Lethabo Booysen
+48
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp JCBALU025
+Alunamda Jacobs
+44
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MLTKAM009
+Kamohelo Malatji
+28
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BYSMEL033
+Melokuhle Booysen
+56
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MDSKAR028
+Karabo Modise
+76
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MKHOMO007
+Omolemo Mkhize
+52
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NKNFAI009
+Faith Nkuna
+40
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NDXENZ020
+Enzokuhle Ndou
+56
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp GMDMEL012
+Melokuhle Gumede
+52
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BKSPHE006
+Phenyo Beukes
+32
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MLLSIP025
+Siphosethu Maluleke
+52
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MTLLIK018
+Likuwe Motloung
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp DVDLIN009
+Lingomso Davids
+56
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp TSHLEA015
+Leano Tshabalala
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MTHMEL032
+Melokuhle Mthembu
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NDXMEL026
+Melokuhle Ndou
+80
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NGCESI003
+Esihle Ngcobo
+52
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp WLLMPH003
+Mpho Williams
+44
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MNSOTH006
+Othalive Mnisi
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MNSALW002
+Alwande Mnisi
+48
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BXXREA013
+Reatlegile Booi
+52
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MTLMPH010
+Mpho Motloung
+56
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NHLESI001
+Esihle Nhlapo
+80
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BRHKAM032
+Kamogelo Abrahams
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MLXESI011
+Esihle Moloi
+76
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp WLLPHE002
+Phenyo Williams
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NGWLES001
+Lesedi Ngwenya
+80
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp KLSORA001
+Oratile Klaas
+36
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MTNSIP023
+Siphosethu Motaung
+56
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp DVDPHI003
+Philasande Davids
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp DVDRET001
+Rethabile Davids
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp LWXKAM006
+Kamogelo Louw
+44
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BRHKAM024
+Kamogelo Abrahams
+72
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp PTRLET058
+Lethabo Peter
+44
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp WTBJAY020
+Jayden Witbooi
+40
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MTLMPH013
+Mpho Motloung
+48
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MTLSIY009
+Siyabonga Motloung
+52
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp STHTHA019
+Thato Sithole
+72
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NHLSIP027
+Siphosethu Nhlapo
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MNSJAY014
+Jayden Mnisi
+80
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MNGMPH006
+Mpho Moeng
+84
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NGBOLE013
+Olerato Ngobeni
+52
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NKSOLO012
+Olothando Nkosi
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp KLSOTH005
+Othalive Klaas
+40
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NKNOLO001
+Olothando Nkuna
+48
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp KHZRET020
+Rethabile Khoza
+52
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NGCSIP002
+Siphosethu Ngcobo
+72
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MHLAYA015
+Ayabonga Mahlangu
+48
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp TSHLIK014
+Likuwe Tshabalala
+48
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp JCBLES021
+Lesedi Jacobs
+56
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BYSEMI012
+Emihle Booysen
+48
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp HNDKAM017
+Kamohelo Hendricks
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MDKOFE001
+Ofentse Madikizela
+52
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NDXLIK004
+Likuwe Ndou
+76
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp TSTOTH029
+Othalive Tsotetsi
+40
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp LYNHLE002
+Hlelokuhle Olyn
+56
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MHLELI013
+Elijah Mahlangu
+44
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp HNDBAN006
+Bandile Hendricks
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp CHKOTH022
+Othalive Chauke
+36
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MDSEMI016
+Emihle Modise
+72
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp TSHKUN003
+Kungawo Tshabalala
+76
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp CHKBON006
+Bonolo Chauke
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MDKBAN023
+Bandile Madikizela
+80
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MTNEMI019
+Emihle Motaung
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MHLOFE053
+Ofentse Mahlangu
+36
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp WLLIMI003
+Iminathi Williams
+80
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BKSMIN001
+Minenhle Beukes
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MDKAMO020
+Amohelang Madikizela
+76
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MTHLIK006
+Likuwe Mthembu
+52
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp LWXAMO016
+Amogelang Louw
+36
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BXXSIY003
+Siyabonga Booi
+56
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp WLLSIY001
+Siyabonga Williams
+80
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MHLIMI024
+Iminathi Mahlangu
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MLXLET056
+Lethabo Moloi
+76
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MTNBLE006
+Blessing Motaung
+36
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NDLKAM025
+Kamogelo Ndlovu
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MKNJOS002
+Joshua Mokoena
+72
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp JCKAMO041
+Amogelang Jack
+52
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NGWENZ014
+Enzokuhle Ngwenya
+92
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MTNAYA005
+Ayabonga Motaung
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MFKBOK001
+Bokamoso Mofokeng
+56
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MHLONT004
+Onthatile Mahlangu
+48
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NGBBLE015
+Blessing Ngobeni
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp KHMLWA009
+Lwandle Khumalo
+80
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp TSHLIK020
+Likuwe Tshabalala
+52
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp STHONT007
+Onthatile Sithole
+84
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp STHMEL022
+Melokuhle Sithole
+92
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BTHAMO021
+Amogelang Buthelezi
+40
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MKNPHI013
+Philasande Mokoena
+56
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MTHOMP051
+Omphile Mthembu
+76
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp LYNKAT017
+Katleho Olyn
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp SHBALU015
+Alunamda Shabangu
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MTHRET032
+Rethabile Mthembu
+48
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BKSLEA017
+Leah Beukes
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp DLMMEL024
+Melokuhle Dlamini
+56
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp PTRLIK016
+Likuwe Petersen
+72
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp VSGLUP004
+Luphawu Visagie
+40
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp SHBLET058
+Lethokuhle Shabangu
+48
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NGCLIK021
+Likuwe Ngcobo
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp WTBKUN018
+Kungawo Witbooi
+36
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MDSHLE009
+Hlelokuhle Modise
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MTNELI008
+Elijah Motaung
+76
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BKSWAR008
+Warona Beukes
+36
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp PTRESI030
+Esihle Petersen
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp VSGALU001
+Alunamda Visagie
+72
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MNGPHE014
+Phenyo Moeng
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp KHMSIY020
+Siyabonga Khumalo
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp DNLLET052
+Lethokuhle Daniels
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NKSBAN011
+Bandile Nkosi
+44
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp HNDMEL013
+Melokuhle Hendricks
+56
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp DMSMEL019
+Melokuhle Adams
+24
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp KHMKAT027
+Katleho Khumalo
+76
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MTLREM003
+Remofilwe Motloung
+84
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp DNLLES011
+Lesedi Daniels
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp KHZNAL011
+Naledi Khoza
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp DVDOMA003
+Omaatla Davids
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MKNESI006
+Esihle Mokoena
+32
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MNSKHA003
+Khayone Mnisi
+80
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp KHMSIY021
+Siyabonga Khumalo
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BLYKAM033
+Kamohelo Baloyi
+48
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp SMTBOK012
+Bokamoso Smith
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NKNLEB018
+Lebogang Nkuna
+56
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BKSLIN012
+Lingomso Beukes
+52
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BTHOMA017
+Omaatla Buthelezi
+56
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BXXISA010
+Isabella Booi
+52
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MLLLUT011
+Luthando Maluleke
+40
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NGBLEA016
+Leah Ngobeni
+36
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MGLOMA012
+Omaatla Mogale
+44
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MLXKAT041
+Katlego Moloi
+72
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp GMDJAY002
+Jayden Gumede
+24
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NKNOKU007
+Okuhle Nkuna
+52
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MSKKAM027
+Kamogelo Maseko
+32
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp JCBIMI017
+Iminathi Jacobs
+76
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp HNDAMO054
+Amohelang Hendricks
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NHLSPH005
+Sphesihle Nhlapo
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp STHLUT006
+Luthando Sithole
+76
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp JCKFAI007
+Faith Jack
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MTHKAR011
+Karabo Mthembu
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NKSKUN016
+Kungawo Nkosi
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NGBOTH005
+Othalive Ngobeni
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NDXAMA015
+Amahle Ndou
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp JCBEMI010
+Emihle Jacobs
+72
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MNSTHA018
+Thandolwethu Mnisi
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp HNDKAT008
+Katleho Hendricks
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp SHBPHE003
+Phenyo Shabangu
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MSXLEA036
+Leano Mosia
+52
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp GMDMEL017
+Melokuhle Gumede
+56
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp PTRANG010
+Angel Petersen
+36
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BXXMPH019
+Mpho Booi
+48
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp DVDONT020
+Onthatile Davids
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp VSGOMA011
+Omaatla Visagie
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp DYNLES020
+Lesedi Dyantyi
+56
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BTHCAL007
+Caleb Buthelezi
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp CLTSPH008
+Sphesihle Cloete
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MTNBON008
+Bonolo Motaung
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp RDBMIA007
+Mia Radebe
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BLYBAY011
+Bayanda Baloyi
+56
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MDKLEA002
+Leah Madikizela
+56
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MDXSIY008
+Siyabonga Mudau
+52
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BYSFAI007
+Faith Booysen
+52
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MDSOMP019
+Omphile Modise
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp TSHORA009
+Oratilwe Tshabalala
+44
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MTHBOK060
+Bokamoso Mathebula
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp VSGAMO019
+Amohelang Visagie
+72
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MTNONT029
+Onthatile Motaung
+76
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MGLENZ021
+Enzokuhle Mogale
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp KLSNAL015
+Naledi Klaas
+44
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NKNLIA009
+Liam Nkuna
+56
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MLFOMA007
+Omaatla Molefe
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp RDBMIN007
+Minenhle Radebe
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MDXWAR011
+Warona Mudau
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp RDBSIP007
+Siphesihle Radebe
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BYSAMO025
+Amogelang Booysen
+48
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp TSTAVA019
+Ava Tsotetsi
+80
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp PTRAMO086
+Amogelang Peter
+44
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MDXAMO053
+Amohelang Mudau
+84
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NKSALU029
+Alunamda Nkosi
+76
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp PTRTHA054
+Thato Peter
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MTNLUK006
+Luke Motaung
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp HNDOMA024
+Omaatla Hendricks
+32
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NGWAPH007
+Aphelele Ngwenya
+80
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BXXOLE016
+Olerato Booi
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp STHAMO027
+Amogelang Sithole
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp SMTSIP003
+Siphosethu Smith
+80
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BKSNOA011
+Noah Beukes
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MTLLIS016
+Lisakhanya Motloung
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MNGKUN008
+Kungawo Moeng
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MTLBLE001
+Blessing Motloung
+76
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp TSTPHE008
+Phenyo Tsotetsi
+32
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MTHSPH008
+Sphesihle Mthembu
+80
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MDSMEL001
+Melokuhle Modise
+92
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NGWLEA021
+Leano Ngwenya
+80
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MNSLIK015
+Likuwe Mnisi
+84
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp HNDOTH028
+Othalive Hendricks
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp WLLAMO052
+Amohelang Williams
+76
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MGLANG005
+Angel Mogale
+52
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NDLKAT014
+Katlego Ndlovu
+80
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MLFMPH008
+Mpho Molefe
+96
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MDXLIN003
+Lingomso Mudau
+40
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MSXELI005
+Elijah Mosia
+52
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MDSOLO015
+Olothando Modise
+88
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MHLLUB022
+Lubanzi Mahlangu
+40
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MTHELI023
+Elijah Mathebula
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NGWLET017
+Lethokuhle Ngwenya
+80
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp DVDBON012
+Bonolo Davids
+72
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp KLSANG007
+Angel Klaas
+44
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp GMDIMI033
+Iminathi Gumede
+52
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BYSKUN018
+Kungawo Booysen
+72
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MTLKHA014
+Khayone Motloung
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp PTRKAT075
+Katlego Petersen
+40
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MDXHLE008
+Hlelokuhle Mudau
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NKNESI007
+Esihle Nkuna
+48
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NDXJOS007
+Joshua Ndou
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp LYNBAN011
+Bandile Olyn
+32
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BRHOMP017
+Omphile Abrahams
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MSKTHA022
+Thato Maseko
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NGBBOK029
+Bokamoso Ngobeni
+52
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp VNXLES021
+Lesedi Van
+76
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NGCNKO005
+Nkosenhle Ngcobo
+72
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MHLREN021
+Reneilwe Mahlangu
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NDLWAR014
+Warona Ndlovu
+36
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BYSONT003
+Onthatile Booysen
+56
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp GMDREN011
+Reneilwe Gumede
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp JCBALU028
+Alunamda Jacobs
+48
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BTHKUN007
+Kungawo Buthelezi
+40
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MSKOTH018
+Othalive Maseko
+72
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NHLENZ017
+Enzokuhle Nhlapo
+52
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MKNKAT039
+Katlego Mokoena
+72
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp SHBAMO059
+Amohelang Shabangu
+48
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MHLLIN037
+Lingomso Mohlala
+44
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp JCKBAN011
+Banele Jack
+80
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp PTRPHE012
+Phenyo Petersen
+56
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MNSSPH005
+Sphesihle Mnisi
+72
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp VNXREM008
+Remofilwe Van
+76
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp TSTBON009
+Bonolo Tsotetsi
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp JCKASE011
+Asemahle Jack
+76
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp DVDLIA014
+Liam Davids
+52
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp JCKLEA005
+Leano Jack
+72
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MLFLET062
+Lethokuhle Molefe
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp WTBTHA010
+Thato Witbooi
+36
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp KLSMIA003
+Mia Klaas
+40
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BKSKAT010
+Katlego Beukes
+48
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp WTBONT011
+Onthatile Witbooi
+36
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp SMTOMP028
+Omphile Smith
+40
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp VNXKAT015
+Katleho Van
+76
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MTNLIS010
+Lisakhanya Motaung
+72
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NDLLEA026
+Leano Ndlovu
+80
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp LWXAVA008
+Ava Louw
+52
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MTHKAT025
+Katlego Mthembu
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp DVDHLE002
+Hlelokuhle Davids
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp PTRBAY007
+Bayanda Petersen
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp STHAYA002
+Ayabonga Sithole
+56
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MTHLIN010
+Lingomso Mthembu
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MDKWAR017
+Warona Madikizela
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp VNXBAN028
+Banele Van
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MKHREA001
+Reatlegile Mkhize
+56
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp DMSTHA022
+Thandolwethu Adams
+44
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp JCKKAT012
+Katlego Jack
+84
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp DVDBOK005
+Bokamoso Davids
+52
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp JCKAYA020
+Ayabonga Jack
+76
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp STHLET063
+Lethokuhle Sithole
+88
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp WLLBOK017
+Bokamoso Williams
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BTHAMO004
+Amogelang Buthelezi
+28
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MSKKAR018
+Karabo Maseko
+44
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MKNLES022
+Lesedi Mokoena
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MLTAMO043
+Amohelang Malatji
+36
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp CLTAYA005
+Ayabonga Cloete
+44
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MDSLIN014
+Lingomso Modise
+80
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp KHMMIA003
+Mia Khumalo
+80
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BLYFAI005
+Faith Baloyi
+40
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp SMTBON002
+Bonolo Smith
+56
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MSKROR009
+Rorisang Maseko
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp JCKSIY006
+Siyabonga Jack
+76
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MLLSIP012
+Siphosethu Maluleke
+40
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp VSGAYA004
+Ayabonga Visagie
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp SMTBOK019
+Bokang Smith
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MDSKAT023
+Katlego Modise
+84
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MLFLEA007
+Leah Molefe
+52
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp KHZLEB010
+Lebogang Khoza
+76
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MTLEMI006
+Emihle Motloung
+84
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp RDBONT017
+Onthatile Radebe
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MDSOMA009
+Omaatla Modise
+84
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MHLCAL014
+Caleb Mohlala
+52
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp CLTIMI023
+Iminathi Cloete
+24
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp DYNAMO035
+Amogelang Dyantyi
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BLYLEA027
+Leano Baloyi
+28
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BLYONT019
+Onthatile Baloyi
+56
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp DYNLET021
+Lethokuhle Dyantyi
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MFKLET026
+Lethokuhle Mofokeng
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp LYNKAR027
+Karabo Olyn
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp VSGNOA006
+Noah Visagie
+44
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp VNXOMA021
+Omaatla Van
+76
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MNGKAM022
+Kamogelo Moeng
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MNSREA016
+Reatlegile Mnisi
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MLFREA025
+Reatlegile Molefe
+72
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MSXOMA017
+Omaatla Mosia
+84
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MHLKUN055
+Kungawo Mohlala
+56
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp LWXSIP021
+Siphosethu Louw
+40
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NGWOLO017
+Olothando Ngwenya
+52
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MLFOTH024
+Othalive Molefe
+88
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MLLONT020
+Onthatile Maluleke
+32
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BRHKAT027
+Katlego Abrahams
+28
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MTNOTH021
+Othalive Motaung
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MLTENZ017
+Enzokuhle Malatji
+16
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MHLLET090
+Lethabo Mahlangu
+36
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NKSASE002
+Asemahle Nkosi
+72
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BYSLES012
+Lesedi Booysen
+48
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MLTLEB010
+Lebogang Malatji
+36
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BLYESI013
+Esihle Baloyi
+44
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp SMTPHE006
+Phenyo Smith
+72
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MNSOMP024
+Omphile Mnisi
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NDXKAM027
+Kamohelo Ndou
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MLTORA032
+Oratile Malatji
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MKHALW012
+Alwande Mkhize
+28
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BTHFAI002
+Faith Buthelezi
+40
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp STHWAR006
+Warona Sithole
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MKHBLE003
+Blessing Mkhize
+44
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp KLSONT024
+Onthatile Klaas
+40
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MLLAYA002
+Ayabonga Maluleke
+28
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp TSHBAN007
+Banele Tshabalala
+72
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp PTRMEL007
+Melokuhle Peter
+32
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NDLOKU015
+Okuhle Ndlovu
+56
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp DNLBOK012
+Bokang Daniels
+56
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BKSOKU013
+Okuhle Beukes
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MNGISA003
+Isabella Moeng
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp LWXMEL002
+Melokuhle Louw
+52
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MLXLET068
+Letlotlo Moloi
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MLLOTH022
+Othalive Maluleke
+32
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp DVDLEA032
+Leano Davids
+48
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MLXROR015
+Rorisang Moloi
+72
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp DVDLUK006
+Luke Davids
+48
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp SHBKAT011
+Katleho Shabangu
+72
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MDKLIN007
+Lingomso Madikizela
+36
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MSKKAR012
+Karabo Maseko
+48
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MLXKAM015
+Kamohelo Moloi
+72
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MLFLUK012
+Luke Molefe
+48
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MDSOFE020
+Ofentse Modise
+84
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MTLKAT005
+Katleho Motloung
+76
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MKNPHI004
+Philasande Mokoena
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp JCKENZ020
+Enzokuhle Jack
+72
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp JCBBAY010
+Bayanda Jacobs
+76
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MNGAYA011
+Ayabonga Moeng
+72
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp VSGKHA001
+Khayone Visagie
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp GMDLUK001
+Luke Gumede
+56
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp KLSOFE033
+Ofentse Klaas
+32
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp DYNROR009
+Rorisang Dyantyi
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp PTRONT042
+Onthatile Peter
+52
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MKHBAY010
+Bayanda Mkhize
+52
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BTHRET001
+Rethabile Buthelezi
+48
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BTHOKU016
+Okuhle Buthelezi
+56
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp SMTBAY003
+Bayanda Smith
+76
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp SHBREA022
+Reatlegile Shabangu
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MTHJAY026
+Jayden Mthembu
+64
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BXXROR014
+Rorisang Booi
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp CHKIMI001
+Iminathi Chauke
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NDXAMO005
+Amohelang Ndou
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MTHELI002
+Elijah Mthembu
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp LYNALW014
+Alwande Olyn
+56
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BXXREA012
+Reatlegile Booi
+48
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp JCKNOA004
+Noah Jack
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp HNDAMO018
+Amogelang Hendricks
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp BRHLUP009
+Luphawu Abrahams
+44
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp VSGAPH018
+Aphelele Visagie
+56
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp DMSJAY008
+Jayden Adams
+40
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NKNPHE010
+Phenyo Nkuna
+44
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp NGWOTH017
+Othalive Ngwenya
+68
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp SMTLUB006
+Lubanzi Smith
+80
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MSKAMA007
+Amahle Maseko
+72
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MLLLET055
+Lethokuhle Maluleke
+76
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MDKLET024
+Letlotlo Madikizela
+48
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MHLBAN046
+Banele Mohlala
+44
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MLTSPH010
+Sphesihle Malatji
+76
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+make[1]: Entering directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'
+/usr/bin/java -cp bin AccessBSTApp MLFASE009
+Asemahle Molefe
+60
+make[1]: Leaving directory '/home/trof/school/csc2001f/assignments/1_binarySearchTrees'

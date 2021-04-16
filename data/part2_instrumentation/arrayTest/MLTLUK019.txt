@@ -1,0 +1,3 @@
+/usr/bin/java -cp bin AccessArrayApp MLTLUK019
+Luke Malatji
+4

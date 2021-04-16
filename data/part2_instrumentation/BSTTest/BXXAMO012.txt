@@ -1,0 +1,3 @@
+/usr/bin/java -cp bin AccessBSTApp BXXAMO012
+Amogelang Booi
+28

@@ -1,0 +1,7 @@
+Analysis of ArrayApp when n is 1000:
+Minimum (Best Case):
+7
+Maximum (Worst Case):
+4988
+Average:
+2462.084

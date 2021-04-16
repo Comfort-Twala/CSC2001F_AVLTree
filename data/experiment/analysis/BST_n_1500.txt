@@ -1,0 +1,7 @@
+Analysis of BSTApp when n is 1500:
+Minimum (Best Case):
+4
+Maximum (Worst Case):
+96
+Average:
+59.29866666666667

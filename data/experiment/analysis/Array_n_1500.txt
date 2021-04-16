@@ -1,0 +1,7 @@
+Analysis of ArrayApp when n is 1500:
+Minimum (Best Case):
+1
+Maximum (Worst Case):
+4999
+Average:
+2557.920666666667

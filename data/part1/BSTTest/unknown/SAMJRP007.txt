@@ -1,0 +1,2 @@
+/usr/bin/java -cp bin AccessArrayApp SAMJRP007
+Access Denied!

@@ -1,0 +1,7 @@
+Analysis of BSTApp when n is 3500:
+Minimum (Best Case):
+4
+Maximum (Worst Case):
+100
+Average:
+58.91314285714286

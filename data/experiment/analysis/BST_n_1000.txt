@@ -1,0 +1,7 @@
+Analysis of BSTApp when n is 1000:
+Minimum (Best Case):
+16
+Maximum (Worst Case):
+92
+Average:
+58.844

@@ -1,0 +1,7 @@
+Analysis of ArrayApp when n is 2000:
+Minimum (Best Case):
+2
+Maximum (Worst Case):
+4999
+Average:
+2520.7015

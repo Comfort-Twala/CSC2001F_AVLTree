@@ -1,0 +1,3 @@
+/usr/bin/java -cp bin AccessBSTApp TSTPHE008
+Phenyo Tsotetsi
+32
