@@ -14,7 +14,7 @@ SCRIPTDIR=script
 $(BINDIR)/%.class:$(SRCDIR)/%.java
 		$(JAVAC) -d $(BINDIR)/ -cp $(BINDIR) $<
 
-CLASSES=BinaryTreeNode.class BTQueueNode.class BTQueue.class BinaryTree.class AVLTree.class AVLTreeTest.class Student.class fileHandler.class ArrayApp.class AVLApp.class AccessArrayApp.class AccessAVLApp.class
+CLASSES=BinaryTreeNode.class BTQueueNode.class BTQueue.class BinaryTree.class AVLTree.class AVLTreeTest.class Student.class fileHandler.class AVLApp.class AccessAVLApp.class
 
 CLASS_FILES=$(CLASSES:%.class=$(BINDIR)/%.class)
 
@@ -22,9 +22,6 @@ default: $(CLASS_FILES)
 
 clean:
 		$(RM) $(BINDIR)/*.class
-
-runArray: $(CLASS_FILES)
-		$(JAVA) -cp $(BINDIR) AccessArrayApp $(ID)
 
 runAVL: $(CLASS_FILES)
 		$(JAVA) -cp $(BINDIR) AccessAVLApp $(ID)

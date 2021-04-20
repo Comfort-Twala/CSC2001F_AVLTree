@@ -1,5 +1,5 @@
-# CSC2001F - Assignment 1
-## Comparing a Binary Search Tree to an Array through searching
+# CSC2001F - Assignment 2
+## AVL Tree
 
 ### Build
 ```unix
@@ -9,15 +9,10 @@ $ make
 ```
 $ make clean
 ```
-### run AccessArrayApp
+### run AccessAVLApp
 ```
-$ make runArray
-$ make runArray ID=<studentID>
-```
-### run AccessBSTApp
-```
-$ make runBST
-$ make runBST ID=<studentID>
+$ make runAVL
+$ make runAVL ID=<studentID>
 ```
 ### generate Javadocs
 ```
