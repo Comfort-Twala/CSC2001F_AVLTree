@@ -102,7 +102,7 @@ public class BinaryTree<dataType>
    }
 
    public void incrementOpCount(){
-      opCount++;
+      this.opCount++;
    }
 
    public int opCounter(){

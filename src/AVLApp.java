@@ -12,7 +12,7 @@ public class AVLApp {
     private AVLTree<Student> tree;
 
 	/**
-	 * Constructor to craete and assign values to BSTApp
+	 * Constructor to create and assign values to AVLApp
 	 * 
 	 * @throws FileNotFoundException
 	 */
@@ -36,16 +36,16 @@ public class AVLApp {
     }	
 
 	/**
-	 * Method to print all student details within the BinarySearchTree  
+	 * Method to print all student details within the AVLTree  
 	 */	
     public void printAllStudents() {
-		tree.inOrder();
+		tree.treeOrder();
 	}
 
 	/**
-	 * Method to return number of operations performed when searching through BST
+	 * Method to return number of operations performed when searching through AVL
 	 * 
-	 * @return opCount number of opertions performed by BST find method
+	 * @return opCount number of opertions performed by AVL find method
 	 */
 	public int opCounter(){
 		return tree.opCounter();

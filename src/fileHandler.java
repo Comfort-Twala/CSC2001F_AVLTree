@@ -7,14 +7,13 @@ import java.util.Scanner;
  *   -open file
  *   -get file contents
  *   -slice relevant data 
- *   -return Array or BinarySearchTree of data
+ *   -return AVLTree of data
  * 
  * @author TWLCOM001 - Comfort Twala
  * @version 1.0
  * */
 public class fileHandler {
 	//Instance variables
-	private Student[] rawData; 
 	private AVLTree<Student> tree;
 	private Scanner fileReader;
 
@@ -25,49 +24,31 @@ public class fileHandler {
 	 * @throws FileNotFoundException when file cannot be found
 	 */
 	public fileHandler(String file) throws FileNotFoundException{
-		this.rawData = new Student[5000];
 		this.tree = new AVLTree<>();
 		this.fileReader = new Scanner(new File(file));
 	}
 
 	/**
-	 * Method to populate a data structure with data from file depending which data structure type it is
+	 * Method to populate a AVLTree structure with data from file 
 	 * 
-	 * @param type type of datastructure the method needs to populate
 	 */
-	private void populate(String type){
+	private void populate(){
 		Student student;
-		int i = 0;
 		while (this.fileReader.hasNextLine()){
 			String data = this.fileReader.nextLine();
 			student = new Student(data);
-			if (type.equals("tree")){
-				this.tree.insert(student);
-			} else {
-				this.rawData[i] = student;
-			}
-			i++;
+			this.tree.insert(student);
 		}	
 		this.fileReader.close();
 	}
 
 	/**
-	 * Method to return populated BinarySearchTree
+	 * Method to return populated AVLTree
 	 * 
 	 * @return tree
 	 */
 	public AVLTree<Student> dataTree() {
-		populate("tree");
+		populate();
 		return this.tree;		
-	}
-	
-	/**
-	 * Method to return populated Array
-	 * 
-	 * @return rawData
-	 */
-	public Student[] dataArray() {
-		populate("array");
-		return this.rawData;			
 	}
 }

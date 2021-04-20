@@ -154,9 +154,4 @@ public class AVLTree<dataType extends Comparable<? super dataType>> extends Bina
          treeOrder (node.right, level+1);
       }
    }
-
-   public int opCounter() {
-      return 0;
-   }
 }
-
