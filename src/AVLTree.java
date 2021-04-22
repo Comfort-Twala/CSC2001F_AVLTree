@@ -45,14 +45,18 @@ public class AVLTree<dataType extends Comparable<? super dataType>> extends Bina
    public BinaryTreeNode<dataType> balance ( BinaryTreeNode<dataType> p )
    {
       fixHeight (p);
+      incrementOpCount("i");
       if (balanceFactor (p) == 2)
       {
+         incrementOpCount("i");
          if (balanceFactor (p.right) < 0)
             p.right = rotateRight (p.right);
          return rotateLeft (p);
       }
+      incrementOpCount("i");
       if (balanceFactor (p) == -2)
       {
+         incrementOpCount("i");
          if (balanceFactor (p.left) > 0)
             p.left = rotateLeft (p.left);
          return rotateRight (p);
@@ -66,12 +70,16 @@ public class AVLTree<dataType extends Comparable<? super dataType>> extends Bina
    }
    public BinaryTreeNode<dataType> insert ( dataType d, BinaryTreeNode<dataType> node )
    {
+      incrementOpCount("i");
       if (node == null)
          return new BinaryTreeNode<dataType> (d, null, null);
-      if (d.compareTo (node.data) <= 0)
+      if (d.compareTo (node.data) <= 0){
+         incrementOpCount("i");
          node.left = insert (d, node.left);
-      else
+      } else {
+         incrementOpCount("i");
          node.right = insert (d, node.right);
+      }
       return balance (node);
    }
    
@@ -118,7 +126,7 @@ public class AVLTree<dataType extends Comparable<? super dataType>> extends Bina
 
    public BinaryTreeNode<dataType> find ( dataType d )
    {
-      incrementOpCount();
+      incrementOpCount("f");
       if (root == null)
          return null;
       else
@@ -126,15 +134,15 @@ public class AVLTree<dataType extends Comparable<? super dataType>> extends Bina
    }
    public BinaryTreeNode<dataType> find ( dataType d, BinaryTreeNode<dataType> node )
    {
-      incrementOpCount();
+      incrementOpCount("f");
       if (d.compareTo (node.data) == 0) 
          return node;
       else if (d.compareTo (node.data) < 0){
-         incrementOpCount();
+         incrementOpCount("f");
          return (node.left == null) ? null : find (d, node.left);
       }
       else{
-         incrementOpCount();
+         incrementOpCount("f");
          return (node.right == null) ? null : find (d, node.right);
       }
    }

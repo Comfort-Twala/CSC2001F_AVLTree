@@ -43,11 +43,14 @@ public class AVLApp {
 	}
 
 	/**
-	 * Method to return number of operations performed when searching through AVL
+	 * Method to return number of operations performed when searching and inserting students into AVL tree
 	 * 
-	 * @return opCount number of opertions performed by AVL find method
+	 * @param type "f" for find and "i" for insert
+	 * @return opCount number of opertions performed by AVL insert and find method
 	 */
-	public int opCounter(){
-		return tree.opCounter();
+	public int opCounter(String type){
+		if (type.equals("f"))
+			return tree.opCounter("f");
+		return tree.opCounter("i");
 	}
 }

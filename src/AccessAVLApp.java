@@ -15,7 +15,8 @@ public class AccessAVLApp {
 			avlApp.printAllStudents();
 		} else {
 			System.out.println(avlApp.printStudent(args[0]));
-			System.out.println(avlApp.opCounter());
+			System.out.println("find: " + avlApp.opCounter("f"));
+			System.out.println("insert: " + avlApp.opCounter("i"));
 		}
 	}	
 }

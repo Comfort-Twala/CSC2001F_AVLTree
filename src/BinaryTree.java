@@ -5,12 +5,14 @@
 public class BinaryTree<dataType>
 {
    BinaryTreeNode<dataType> root;
-   int opCount;
+   int findCount;
+   int insertCount;
    
    public BinaryTree ()
    {
       root = null;
-      opCount = 0;
+      findCount = 0;
+      insertCount = 0;
    }
    
    public int getHeight ()
@@ -101,11 +103,17 @@ public class BinaryTree<dataType>
       }
    }
 
-   public void incrementOpCount(){
-      this.opCount++;
+   public void incrementOpCount(String type){
+      if (type.equals("f")){
+         this.findCount++;
+      } else{
+         this.insertCount++;
+      }
    }
 
-   public int opCounter(){
-      return this.opCount;
+   public int opCounter(String type){
+      if (type.equals("f"))
+         return this.findCount;
+      return this.insertCount;
    }
 }
