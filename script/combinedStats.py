@@ -15,15 +15,15 @@ def main():
     """
     Main method to initiate graphing
     """
-    for type in ['find', 'insert']:
-        df = data_frame_create(type)
-        for n in range(500, 5001, 500):
-            data = []
+    df = data_frame_create()
+    for n in range(500, 5001, 500):
+        data = []
+        for type in ['find', 'insert']:
             data += getdata(f"data/experiment/analysis/AVL_{type}_n_{n}.txt")
-            populate_data_frame(df, data, n)
+        populate_data_frame(df, data, n)
 
-        data_frame_csv(df, type)
-        graphData(df, type)
+        data_frame_csv(df)
+        graphData(df)
 
 def getdata(file):
     """
@@ -39,11 +39,11 @@ def getdata(file):
         f.close()
     return data
 
-def data_frame_create(type):
+def data_frame_create():
     """
     Create a DataFrame
     """
-    index = pd.MultiIndex.from_arrays([[f'AVL {type}' for i in range(0,3)], ['best_case', 'worst_case', 'average_case']])  
+    index = pd.MultiIndex.from_arrays([['Find' for i in range(0,3)] + ['Insert' for i in range(0,3)], ['best_case', 'worst_case', 'average_case']*2])
     df = pd.DataFrame(columns=index)
     return df
 
@@ -53,23 +53,23 @@ def populate_data_frame(df, data, n):
     """
     df.loc[n] = data
 
-def data_frame_csv(dataFrame, type):
+def data_frame_csv(dataFrame):
     """
     Create csv file from DataFrame
     """
-    with open(f'data/experiment/results/{type}_stats.csv', 'w') as stats:
+    with open(f'data/experiment/results/combined_stats.csv', 'w') as stats:
         dataFrame.to_csv(stats)
         stats.close()
 
-def graphData(dataFrame, type):
+def graphData(dataFrame):
     """
     Plot a graph with data from data frame
     """
     dataFrame.plot.line()
-    plt.title(f"AVL operation count of {type} method")
+    plt.title(f"AVL operation count for Find and Insert methods")
     plt.xlabel("Subset (n)")
     plt.ylabel("operation count")
-    plt.savefig(f'data/experiment/results/{type}_graph.png')
+    plt.savefig(f'data/experiment/results/combined_graph.png')
     plt.show()
 
 if __name__ == "__main__":

@@ -7,11 +7,11 @@ Python script to:
 """
 
 def main():
-    for n in range(200, 2001, 200):
-        for data_struc in ["Array", "AVL"]:
-            expfile = open_expfile(f'data/experiment/{data_struc}_subset_n_{n}.txt')
+    for n in range(500, 5001, 500):
+        for type in ['find', 'insert']:
+            expfile = open_expfile(f'data/experiment/{type}/AVL_{type}_n_{n}.txt')
             valueList = count_val(expfile)
-            recordData(best_case(valueList), worst_case(valueList), average(valueList), data_struc, n)
+            recordData(best_case(valueList), worst_case(valueList), average(valueList), n, type)
 
 def open_expfile(file):
     """
@@ -54,12 +54,12 @@ def average(c_list):
     """
     return sum(c_list)/len(c_list)
 
-def recordData(min, max, avr, type, n):
+def recordData(min, max, avr, n, type):
     """
     Function that takes in minimum, maximum and average for count and writes it to a file.
     """
-    with open(f'data/experiment/analysis/{type}_n_{n}.txt', 'w') as f:
-        f.write(f"Analysis of {type}App when n is {n}:\n")
+    with open(f'data/experiment/analysis/AVL_{type}_n_{n}.txt', 'w') as f:
+        f.write(f"Analysis of AVLApp {type} opCount when n is {n}:\n")
         f.write("Minimum (Best Case):\n")
         f.write(f'{min}\n')
         f.write("Maximum (Worst Case):\n")
