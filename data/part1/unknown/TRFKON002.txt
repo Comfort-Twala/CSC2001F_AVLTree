@@ -1,0 +1,2 @@
+/usr/bin/java -cp bin AccessAVLApp TRFKON002
+Access Denied!

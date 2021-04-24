@@ -1,0 +1,2 @@
+/usr/bin/java -cp bin AccessAVLApp TWLCOM001
+Access Denied!
