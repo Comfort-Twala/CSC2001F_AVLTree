@@ -1,5 +1,7 @@
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 /**
@@ -7,14 +9,15 @@ import java.util.Scanner;
  *   -open file
  *   -get file contents
  *   -slice relevant data 
- *   -return AVLTree of data
+ *   -return AVLTree and ArrayList of data
  * 
  * @author TWLCOM001 - Comfort Twala
- * @version 1.0
+ * @version 2.0
  * */
 public class fileHandler {
 	//Instance variables
 	private AVLTree<Student> tree;
+	private List<Student> list;
 	private Scanner fileReader;
 
 	/**
@@ -25,19 +28,25 @@ public class fileHandler {
 	 */
 	public fileHandler(String file) throws FileNotFoundException{
 		this.tree = new AVLTree<>();
+		this.list = new ArrayList<>();
 		this.fileReader = new Scanner(new File(file));
 	}
 
 	/**
-	 * Method to populate a AVLTree structure with data from file 
-	 * 
+	 * Method to populate a AVLTree or Array structure with data from file depending on the type
+	 *  
+	 * @param type 't' for AVLtree and 'l' for list
 	 */
-	private void populate(){
+	private void populate(String type){
 		Student student;
 		while (this.fileReader.hasNextLine()){
 			String data = this.fileReader.nextLine();
 			student = new Student(data);
-			this.tree.insert(student);
+			if (type.equals("t")){
+				this.tree.insert(student);
+			} else {
+				this.list.add(student);
+			}
 		}	
 		this.fileReader.close();
 	}
@@ -48,7 +57,17 @@ public class fileHandler {
 	 * @return tree
 	 */
 	public AVLTree<Student> dataTree() {
-		populate();
+		populate("t");
 		return this.tree;		
+	}
+
+	/**
+	 * Method to return populated ArrayList
+	 * 
+	 * @return list
+	 */
+	public List<Student> dataList() {
+		populate("l");
+		return this.list;
 	}
 }

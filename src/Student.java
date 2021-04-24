@@ -1,8 +1,8 @@
 /**
  * Class to create Student Object
  */
-public class Student implements Comparable<Student> {
-	// Instance variables`
+public class Student implements Comparable<Student>, Cloneable {
+	// Instance variables
 	private String stuNum;
 	private String stuFName;
 	private String stuLName;
@@ -61,6 +61,11 @@ public class Student implements Comparable<Student> {
 	 */
 	public int compareTo(Student other) {
 		return this.stuNum.compareTo(other.stuNum);
+	}
+	
+	@Override
+	protected Object clone() throws CloneNotSupportedException{
+		return super.clone();
 	}
 	
 	/**

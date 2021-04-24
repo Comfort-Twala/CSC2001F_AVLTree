@@ -14,7 +14,7 @@ public class AVLApp {
 	/**
 	 * Constructor to create and assign values to AVLApp
 	 * 
-	 * @throws FileNotFoundException
+	 * @throws FileNotFoundException if Dataset file is not found.
 	 */
     public AVLApp() throws FileNotFoundException{
         this.file = new fileHandler("data/oklist.txt");

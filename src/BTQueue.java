@@ -1,18 +1,29 @@
-// Hussein's Binary Tree
-// 26 March 2017
-// Hussein Suleman
-
+/**
+ * Hussein's Binary Tree
+ * @author Hussein Suleman
+ * @version 26 March 2017
+ * 
+ * @param <dataType>
+ */
 public class BTQueue<dataType>
 {   
    BTQueueNode<dataType> head;
    BTQueueNode<dataType> tail;
-      
+   
+   /**
+    * Constructor to set values to null
+    */
    public BTQueue ()
    {
       head = null;
       tail = null;
    }
    
+   /**
+    * Method to get next node in queue
+    *
+    * @return next node
+    */
    public BinaryTreeNode<dataType> getNext ()
    {
       if (head == null)
@@ -24,6 +35,11 @@ public class BTQueue<dataType>
       return qnode.node;
    }
    
+   /**
+    * Method to add node to the queue
+    *
+    * @param node
+    */
    public void enQueue ( BinaryTreeNode<dataType> node )
    {
       if (tail == null)
