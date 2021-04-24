@@ -16,7 +16,17 @@ def main():
         cap = int(sys.argv[1]) + 1
     else:
         cap = 31
-    with open("data/experiment/insert/AVL_insert_n_500.txt", "r") as f:
+    
+    data = populate('data/experiment/insert/AVL_insert_n_500.txt', cap)
+    fields = openBrowser()
+    insert(fields, data[1:])
+    search(fields, data[1:])
+    
+def populate(file, cap):   
+    """
+    Populate data list with data from text file  
+    """
+    with open(file, "r") as f:
         data = []
         for line in f:
             if len(data) == cap:
@@ -26,12 +36,14 @@ def main():
                 pass
             except:
                 data.append(line)
+        f.close()
+    return data
 
-    fields = openBrowser()
-    insert(fields, data[1:])
-    search(fields, data[1:])
 
 def openBrowser():
+    """
+    Open browser and open AVLtree.html in browser
+    """
     browser = webdriver.Firefox()
     browser.maximize_window()
     path = os.path.abspath(os.getcwd())
@@ -42,6 +54,9 @@ def openBrowser():
 
 
 def insert(fields, data):
+    """
+    Insert data in data list onto visualiser and click insert button
+    """
     insert = fields[0]
     for num, entry in enumerate(data):
         insert.send_keys(entry)
@@ -50,6 +65,9 @@ def insert(fields, data):
 
 
 def search(fields, data):
+    """
+    Search data in data list in visualiser 
+    """
     search = fields[4]
     for num, entry in enumerate(data):
         search.send_keys(entry)
