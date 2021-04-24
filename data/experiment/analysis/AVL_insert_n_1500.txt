@@ -1,0 +1,7 @@
+Analysis of AVLApp insert opCount when n is 1500:
+Minimum (Best Case):
+1
+Maximum (Worst Case):
+50
+Average:
+38.63733333333333

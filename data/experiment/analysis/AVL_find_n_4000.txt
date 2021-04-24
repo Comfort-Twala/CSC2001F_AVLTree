@@ -1,0 +1,7 @@
+Analysis of AVLApp find opCount when n is 4000:
+Minimum (Best Case):
+2
+Maximum (Worst Case):
+28
+Average:
+22.446

@@ -1,0 +1,1001 @@
+Find opcount when n = 500
+PTRLET070 Lethokuhle Petersen
+4
+BKSLEB009 Lebogang Beukes
+22
+TSTLET004 Letlotlo Tsotetsi
+8
+KHZOMA010 Omaatla Khoza
+4
+WLLREA019 Reatlegile Williams
+10
+MNGPHE005 Phenyo Moeng
+2
+MSXELI005 Elijah Mosia
+10
+NDLLEA026 Leano Ndlovu
+6
+MLXLET033 Letlotlo Moloi
+16
+MHLLET104 Lethokuhle Mahlangu
+6
+CLTBOK014 Bokamoso Cloete
+8
+MLFASE009 Asemahle Molefe
+14
+NKNONT014 Onthatile Nkuna
+16
+PTRLIK023 Likuwe Petersen
+14
+RDBOMO001 Omolemo Radebe
+8
+JCBALU025 Alunamda Jacobs
+8
+BRHASE010 Asemahle Abrahams
+12
+SHBLUK015 Luke Shabangu
+14
+BXXOLE016 Olerato Booi
+10
+RDBLET038 Lethabo Radebe
+12
+MLLKUN007 Kungawo Maluleke
+8
+JCBLIN019 Lingomso Jacobs
+18
+STHAPH005 Aphelele Sithole
+14
+MTHREM021 Remofilwe Mathebula
+8
+MLTAYA010 Ayabonga Malatji
+18
+MLFREA006 Reatlegile Molefe
+16
+MTNSPH001 Sphesihle Motaung
+14
+MKNREM011 Remofilwe Mokoena
+18
+BKSOLO007 Olothando Beukes
+20
+MNGPHI011 Philasande Moeng
+20
+VSGALW016 Alwande Visagie
+12
+SMTWAR006 Warona Smith
+6
+BYSLUP002 Luphawu Booysen
+18
+MTLOMA027 Omaatla Motloung
+12
+MTNOFE018 Ofentse Motaung
+14
+MKNLUK009 Luke Mokoena
+10
+DVDESI017 Esihle Davids
+6
+MSKBAN016 Bandile Maseko
+12
+MLLKHA007 Khayone Maluleke
+16
+BKSLIK024 Likuwe Beukes
+16
+JCKSIP002 Siphesihle Jack
+12
+MLXLET023 Lethokuhle Moloi
+10
+WTBISA007 Isabella Witbooi
+14
+MLXREN007 Reneilwe Moloi
+12
+MNGASE004 Asemahle Moeng
+18
+KLSOMA023 Omaatla Klaas
+14
+RDBNKO004 Nkosenhle Radebe
+16
+BKSPHI014 Philasande Beukes
+18
+DVDSIY001 Siyabonga Davids
+18
+NGBAMO008 Amohelang Ngobeni
+14
+DLMENZ006 Enzokuhle Dlamini
+12
+WTBKAR023 Karabo Witbooi
+16
+LWXHLE006 Hlelokuhle Louw
+14
+MDSBOK044 Bokamoso Modise
+16
+KLSTSH003 Tshegofatso Klaas
+10
+LWXANG009 Angel Louw
+16
+MFKOTH004 Othalive Mofokeng
+10
+DYNOTH027 Othalive Dyantyi
+10
+NGCLUP011 Luphawu Ngcobo
+12
+SMTREN014 Reneilwe Smith
+14
+MLXKHA003 Khayone Moloi
+18
+DMSAVA003 Ava Adams
+10
+NGWOMA003 Omaatla Ngwenya
+8
+DVDSIP005 Siphosethu Davids
+16
+MDSOMA009 Omaatla Modise
+8
+STHLUT006 Luthando Sithole
+10
+PTRREA046 Reatlegile Peter
+16
+MNSPHE008 Phenyo Mnisi
+16
+VNXKAT003 Katlego Van
+16
+STHOLE006 Olerato Sithole
+18
+MTHOMP041 Omphile Mthembu
+18
+NHLLUK003 Luke Nhlapo
+12
+NHLAMO026 Amogelang Nhlapo
+16
+NHLELI003 Elijah Nhlapo
+16
+SMTIMI009 Iminathi Smith
+10
+WTBESI004 Esihle Witbooi
+16
+NKSTHA021 Thandolwethu Nkosi
+16
+KHMISA008 Isabella Khumalo
+16
+WTBJUN002 Junior Witbooi
+18
+MDXAMO053 Amohelang Mudau
+14
+BKSKAR014 Karabo Beukes
+18
+SHBPHE007 Phenyo Shabangu
+12
+BXXAMO005 Amogelang Booi
+18
+MHLBAN011 Bandile Mahlangu
+12
+LYNROR011 Rorisang Olyn
+20
+MTLAMO014 Amogelang Motloung
+14
+MSKLEA031 Leano Maseko
+18
+MSXBON016 Bonolo Mosia
+18
+MTHSIP059 Siphesihle Mathebula
+18
+MTNMEL014 Melokuhle Motaung
+16
+PTRREA023 Reatlegile Peter
+10
+NGCRET007 Rethabile Ngcobo
+16
+LWXAMO058 Amogelang Louw
+18
+DNLAMO018 Amogelang Daniels
+12
+MLTBOK014 Bokamoso Malatji
+14
+MTNLIK027 Likuwe Motaung
+10
+NGCENZ009 Enzokuhle Ngcobo
+18
+LWXBLE006 Blessing Louw
+18
+KHZLEA018 Leano Khoza
+18
+MDKMEL007 Melokuhle Madikizela
+14
+MDSREM003 Remofilwe Modise
+18
+KLSKAM022 Kamogelo Klaas
+12
+MFKREA022 Reatlegile Mofokeng
+18
+DYNAMA004 Amahle Dyantyi
+12
+DNLKUN023 Kungawo Daniels
+14
+JCKESI017 Esihle Jack
+16
+DNLLET030 Lethokuhle Daniels
+20
+KHZKUN010 Kungawo Khoza
+12
+MLXOMA010 Omaatla Moloi
+16
+WLLBOK009 Bokamoso Williams
+18
+DYNREM014 Remofilwe Dyantyi
+18
+TSTORA013 Oratile Tsotetsi
+14
+MHLORA002 Oratilwe Mohlala
+14
+PTROKU013 Okuhle Petersen
+18
+BTHLEB002 Lebogang Buthelezi
+14
+MDXLET057 Lethabo Mudau
+12
+MKHLUP008 Luphawu Mkhize
+18
+WTBLUK015 Luke Witbooi
+12
+BRHBON003 Bonolo Abrahams
+18
+RDBLUB001 Lubanzi Radebe
+16
+WLLSIP016 Siphosethu Williams
+18
+MLFTSH006 Tshegofatso Molefe
+12
+KHMLES004 Lesedi Khumalo
+10
+DMSOFE023 Ofentse Adams
+16
+MSKOFE004 Ofentse Maseko
+14
+MGLKAM029 Kamohelo Mogale
+16
+LWXONT006 Onthatile Louw
+18
+DYNNOA001 Noah Dyantyi
+18
+MHLKAR034 Karabo Mohlala
+14
+JCBOMO010 Omolemo Jacobs
+16
+KLSROR008 Rorisang Klaas
+16
+NGBFAI010 Faith Ngobeni
+10
+MTLFAI001 Faith Motloung
+18
+MTHLET018 Letlotlo Mthembu
+14
+BXXBLE004 Blessing Booi
+16
+BXXKAM029 Kamogelo Booi
+18
+MSXREN015 Reneilwe Mosia
+16
+SMTLUB005 Lubanzi Smith
+14
+KHMBON010 Bonolo Khumalo
+14
+MHLEMI021 Emihle Mahlangu
+16
+MTHLUP005 Luphawu Mathebula
+16
+BLYESI013 Esihle Baloyi
+20
+NGWLET005 Lethokuhle Ngwenya
+18
+DVDONT005 Onthatile Davids
+18
+NKSOMP016 Omphile Nkosi
+12
+SMTLUT010 Luthando Smith
+12
+STHAMO048 Amohelang Sithole
+16
+NKSBOK001 Bokang Nkosi
+18
+MDXSIY008 Siyabonga Mudau
+14
+MTLTHA034 Thato Motloung
+16
+MLFREM014 Remofilwe Molefe
+18
+DMSJAY008 Jayden Adams
+16
+MNSOFE008 Ofentse Mnisi
+14
+MNGJAY006 Jayden Moeng
+18
+NDXLUT010 Luthando Ndou
+12
+LWXBON012 Bonolo Louw
+20
+RDBENZ020 Enzokuhle Radebe
+16
+TSHBLE003 Blessing Tshabalala
+16
+DLMKAT015 Katleho Dlamini
+14
+CHKISA002 Isabella Chauke
+18
+DYNLIN019 Lingomso Dyantyi
+18
+MLTJAY015 Jayden Malatji
+12
+NDLNAL001 Naledi Ndlovu
+18
+NGCKAR036 Karabo Ngcobo
+16
+KHZSIY002 Siyabonga Khoza
+16
+MTNISA004 Isabella Motaung
+14
+MFKLEA011 Leah Mofokeng
+18
+TSTAVA019 Ava Tsotetsi
+14
+DNLLIN026 Lingomso Daniels
+18
+BRHMPH019 Mpho Abrahams
+16
+KLSPHE012 Phenyo Klaas
+18
+MLLPHE009 Phenyo Maluleke
+18
+PTRLUT009 Luthando Peter
+12
+TSHONT002 Onthatile Tshabalala
+12
+MLXAPH014 Aphelele Moloi
+14
+CHKAMO039 Amogelang Chauke
+12
+MTHAMO103 Amogelang Mthembu
+12
+NGWOMA024 Omaatla Ngwenya
+18
+GMDBOK002 Bokamoso Gumede
+14
+KHZKAT047 Katlego Khoza
+16
+NDLOTH020 Othalive Ndlovu
+16
+JCBROR008 Rorisang Jacobs
+18
+MNSPHE011 Phenyo Mnisi
+20
+MTNORA007 Oratile Motaung
+12
+KHMAMO019 Amogelang Khumalo
+16
+PTRONT024 Onthatile Petersen
+16
+TSHENZ017 Enzokuhle Tshabalala
+18
+PTRAMO036 Amohelang Petersen
+16
+NKSASE001 Asemahle Nkosi
+10
+SHBRET013 Rethabile Shabangu
+14
+MNSLIA004 Liam Mnisi
+16
+MHLAVA002 Ava Mohlala
+16
+MKNONT026 Onthatile Mokoena
+16
+GMDENZ003 Enzokuhle Gumede
+18
+MHLLET024 Lethabo Mohlala
+16
+WLLBAN004 Bandile Williams
+14
+DVDKAR010 Karabo Davids
+16
+KHZOFE016 Ofentse Khoza
+14
+NDXRET019 Rethabile Ndou
+18
+MSXOKU022 Okuhle Mosia
+18
+WTBTSH025 Tshegofatso Witbooi
+16
+DNLKAT013 Katlego Daniels
+16
+MNGEMI009 Emihle Moeng
+14
+PTROLO002 Olothando Peter
+14
+MDSLIN014 Lingomso Modise
+18
+MTLSPH004 Sphesihle Motloung
+18
+MGLREM019 Remofilwe Mogale
+14
+VNXKAT021 Katlego Van
+18
+KLSMIA003 Mia Klaas
+16
+MDSSIP016 Siphesihle Modise
+18
+MNSOTH006 Othalive Mnisi
+18
+NGBONT016 Onthatile Ngobeni
+18
+MLTOMA013 Omaatla Malatji
+16
+RDBENZ017 Enzokuhle Radebe
+14
+BYSMEL033 Melokuhle Booysen
+14
+NKNHLE007 Hlelokuhle Nkuna
+14
+STHLET015 Lethabo Sithole
+12
+NDLKUN011 Kungawo Ndlovu
+18
+MTLMIA015 Mia Motloung
+18
+NHLLET074 Lethabo Nhlapo
+20
+MDSLUP019 Luphawu Modise
+20
+PTRALU017 Alunamda Peter
+14
+NHLHLE002 Hlelokuhle Nhlapo
+18
+NDXKAM027 Kamohelo Ndou
+16
+JCBSIY009 Siyabonga Jacobs
+14
+SHBREL002 Relebohile Shabangu
+16
+WTBONT011 Onthatile Witbooi
+14
+MLLBAY010 Bayanda Maluleke
+16
+KLSTHA007 Thandolwethu Klaas
+18
+MSKKAT013 Katlego Maseko
+18
+DNLKAM022 Kamogelo Daniels
+18
+NGWAMO053 Amohelang Ngwenya
+14
+CLTMEL012 Melokuhle Cloete
+14
+NGBKAM013 Kamogelo Ngobeni
+18
+LWXORA017 Oratile Louw
+16
+BYSTHA014 Thato Booysen
+16
+MTHLEB004 Lebogang Mathebula
+18
+WTBOMP002 Omphile Witbooi
+18
+NKSOMO003 Omolemo Nkosi
+16
+MTNJUN003 Junior Motaung
+16
+MSXOTH023 Othalive Mosia
+14
+HNDMEL032 Melokuhle Hendricks
+12
+KHZENZ001 Enzokuhle Khoza
+18
+DMSLIK023 Likuwe Adams
+14
+MNSMEL031 Melokuhle Mnisi
+18
+BXXREA008 Reatlegile Booi
+16
+KLSKAT003 Katlego Klaas
+18
+LYNAMO004 Amohelang Olyn
+18
+NGBROR006 Rorisang Ngobeni
+14
+TSTAMO015 Amohelang Tsotetsi
+16
+KLSAVA004 Ava Klaas
+14
+MKHLET017 Lethokuhle Mkhize
+12
+KLSKAM018 Kamohelo Klaas
+16
+MHLAVA007 Ava Mohlala
+18
+CLTLEA012 Leah Cloete
+16
+MKHLUT003 Luthando Mkhize
+16
+SMTNKO006 Nkosenhle Smith
+16
+MKHKAT035 Katleho Mkhize
+16
+MSKORA009 Oratile Maseko
+18
+MGLLUB001 Lubanzi Mogale
+20
+RDBJUN010 Junior Radebe
+18
+BLYKAT001 Katleho Baloyi
+14
+MTNONT019 Onthatile Motaung
+16
+BLYLIK026 Likuwe Baloyi
+16
+CHKAVA006 Ava Chauke
+18
+CHKAYA010 Ayabonga Chauke
+16
+MLXWAR001 Warona Moloi
+18
+DYNMIA006 Mia Dyantyi
+16
+BLYLEB009 Lebogang Baloyi
+18
+DMSOMA018 Omaatla Adams
+18
+MTNPHE005 Phenyo Motaung
+16
+NDLREL004 Relebohile Ndlovu
+14
+HNDOMP013 Omphile Hendricks
+14
+BKSAMO038 Amohelang Beukes
+20
+PTRALU001 Alunamda Petersen
+18
+NGBSIP003 Siphosethu Ngobeni
+20
+DYNTHA007 Thandolwethu Dyantyi
+16
+MKHMIA014 Mia Mkhize
+18
+MNGANG017 Angel Moeng
+16
+MTLLEA001 Leano Motloung
+16
+SMTLUT001 Luthando Smith
+16
+SHBLWA006 Lwandle Shabangu
+16
+NGCSIP002 Siphosethu Ngcobo
+18
+MTHALW018 Alwande Mathebula
+18
+CLTORA028 Oratile Cloete
+16
+MTHKAT030 Katlego Mthembu
+16
+WTBLIA002 Liam Witbooi
+20
+MLXLIN009 Lingomso Moloi
+14
+DVDLIN007 Lingomso Davids
+14
+CLTLEB011 Lebogang Cloete
+18
+CHKLET038 Letlotlo Chauke
+14
+MSXKAR003 Karabo Mosia
+18
+CHKOMP003 Omphile Chauke
+18
+MNSSIY014 Siyabonga Mnisi
+20
+MDKMPH005 Mpho Madikizela
+20
+KHZREM002 Remofilwe Khoza
+18
+TSTKAM038 Kamogelo Tsotetsi
+16
+MNGMEL016 Melokuhle Moeng
+18
+NGBBON003 Bonolo Ngobeni
+16
+NDLBOK055 Bokamoso Ndlovu
+16
+PTRKAR041 Karabo Peter
+18
+BRHLWA010 Lwandle Abrahams
+20
+WLLAMO012 Amogelang Williams
+20
+KLSOLO019 Olothando Klaas
+18
+NDLBLE014 Blessing Ndlovu
+18
+MLXAPH020 Aphelele Moloi
+18
+NKSKAR005 Karabo Nkosi
+16
+MHLLET002 Lethabo Mohlala
+18
+PTRLUK013 Luke Peter
+16
+MSXREN008 Reneilwe Mosia
+18
+STHHLE012 Hlelokuhle Sithole
+16
+KHMHLE016 Hlelokuhle Khumalo
+18
+TSTLET059 Lethokuhle Tsotetsi
+16
+NGWLIK005 Likuwe Ngwenya
+16
+MTHTHA038 Thandolwethu Mathebula
+16
+NHLOLE003 Olerato Nhlapo
+18
+STHOMP017 Omphile Sithole
+16
+TSHAMO020 Amohelang Tshabalala
+14
+NHLBON001 Bonolo Nhlapo
+18
+KHMJOS019 Joshua Khumalo
+18
+VSGROR006 Rorisang Visagie
+18
+WLLKAT008 Katleho Williams
+16
+NKNAPH016 Aphelele Nkuna
+18
+MLTHLE001 Hlelokuhle Malatji
+16
+MDXENZ023 Enzokuhle Mudau
+18
+LYNLIN001 Lingomso Olyn
+12
+DYNKAR023 Karabo Dyantyi
+18
+MSXAMA008 Amahle Mosia
+16
+WLLMIA007 Mia Williams
+18
+NDXOMA016 Omaatla Ndou
+16
+PTRLIA029 Liam Peter
+16
+WTBOKU001 Okuhle Witbooi
+16
+BTHSIP006 Siphosethu Buthelezi
+22
+WTBMPH025 Mpho Witbooi
+18
+KLSKAM044 Kamogelo Klaas
+20
+MTNLET067 Lethokuhle Motaung
+18
+BRHOMO008 Omolemo Abrahams
+20
+NGBLUT006 Luthando Ngobeni
+16
+NGCPHE006 Phenyo Ngcobo
+18
+DNLKHA007 Khayone Daniels
+18
+MSXANG006 Angel Mosia
+20
+MLLKAT019 Katlego Maluleke
+14
+MNSLIN026 Lingomso Mnisi
+20
+NGBAYA008 Ayabonga Ngobeni
+18
+MNSKAR003 Karabo Mnisi
+20
+MHLOLO003 Olothando Mahlangu
+16
+SHBJUN002 Junior Shabangu
+16
+BTHALU018 Alunamda Buthelezi
+18
+WLLKAM005 Kamohelo Williams
+20
+BRHASE003 Asemahle Abrahams
+20
+MDXJAY008 Jayden Mudau
+16
+STHLET063 Lethokuhle Sithole
+14
+DMSMEL019 Melokuhle Adams
+18
+RDBAYA013 Ayabonga Radebe
+18
+MDXLIN003 Lingomso Mudau
+16
+DLMAMO055 Amogelang Dlamini
+18
+MLXKAM008 Kamohelo Moloi
+16
+LYNREL002 Relebohile Olyn
+18
+MKHKAT013 Katlego Mkhize
+18
+MKHOLO008 Olothando Mkhize
+14
+NGWOLO017 Olothando Ngwenya
+18
+MDXLET051 Lethabo Mudau
+18
+MGLLES017 Lesedi Mogale
+18
+BLYKAT023 Katlego Baloyi
+20
+HNDAMO037 Amohelang Hendricks
+16
+HNDNAL012 Naledi Hendricks
+16
+CLTJAY009 Jayden Cloete
+18
+DVDBON011 Bonolo Davids
+18
+DVDKUN020 Kungawo Davids
+18
+DNLBOK019 Bokang Daniels
+20
+HNDLUB008 Lubanzi Hendricks
+18
+JCBSIY011 Siyabonga Jacobs
+18
+NHLALU030 Alunamda Nhlapo
+20
+MSKKUN027 Kungawo Maseko
+16
+NHLOMO009 Omolemo Nhlapo
+16
+STHLET036 Lethabo Sithole
+16
+SHBJAY008 Jayden Shabangu
+18
+MKNANG016 Angel Mokoena
+18
+TSHPHI011 Philasande Tshabalala
+18
+KHZOKU007 Okuhle Khoza
+16
+NGCOTH008 Othalive Ngcobo
+20
+MGLKUN019 Kungawo Mogale
+20
+GMDAMA007 Amahle Gumede
+18
+BYSREN003 Reneilwe Booysen
+18
+MKNMIN016 Minenhle Mokoena
+18
+KHZJUN013 Junior Khoza
+14
+MLTSPH010 Sphesihle Malatji
+18
+CLTANG004 Angel Cloete
+18
+NKSKHA014 Khayone Nkosi
+18
+MDKSIP019 Siphosethu Madikizela
+18
+VSGNOA006 Noah Visagie
+16
+BTHIMI006 Iminathi Buthelezi
+20
+VNXISA011 Isabella Van
+18
+MTNISA007 Isabella Motaung
+18
+MKHREN019 Reneilwe Mkhize
+16
+TSTLET058 Lethabo Tsotetsi
+18
+DYNLES020 Lesedi Dyantyi
+14
+MHLAMO069 Amogelang Mahlangu
+18
+MLLBLE016 Blessing Maluleke
+18
+MDSEMI014 Emihle Modise
+20
+TSHANG007 Angel Tshabalala
+18
+NGWLES001 Lesedi Ngwenya
+20
+DLMISA006 Isabella Dlamini
+16
+JCKLET017 Letlotlo Jack
+18
+DYNELI007 Elijah Dyantyi
+18
+TSTRET006 Rethabile Tsotetsi
+20
+LYNORA013 Oratilwe Olyn
+20
+STHHLE008 Hlelokuhle Sithole
+18
+MKHONT001 Onthatile Mkhize
+18
+CLTAMO041 Amohelang Cloete
+16
+HNDREN011 Reneilwe Hendricks
+16
+NGCJUN003 Junior Ngcobo
+20
+BXXESI010 Esihle Booi
+20
+MTNORA009 Oratile Motaung
+18
+MSKLUB001 Lubanzi Maseko
+20
+CLTAMA003 Amahle Cloete
+20
+NHLBLE001 Blessing Nhlapo
+14
+MSXLUB009 Lubanzi Mosia
+16
+BXXOMA007 Omaatla Booi
+18
+KHZOFE010 Ofentse Khoza
+18
+KHZWAR018 Warona Khoza
+18
+KHMORA015 Oratilwe Khumalo
+18
+NKSALU007 Alunamda Nkosi
+18
+DYNJOS011 Joshua Dyantyi
+16
+JCKAYA020 Ayabonga Jack
+20
+BXXAPH007 Aphelele Booi
+20
+BTHLUT004 Luthando Buthelezi
+22
+MTLAMO005 Amogelang Motloung
+18
+WTBISA004 Isabella Witbooi
+18
+BXXMEL016 Melokuhle Booi
+20
+NDXMEL028 Melokuhle Ndou
+18
+MFKMEL032 Melokuhle Mofokeng
+16
+MDSANG010 Angel Modise
+20
+NGCLET022 Lethabo Ngcobo
+18
+MNSREL007 Relebohile Mnisi
+18
+BTHIMI017 Iminathi Buthelezi
+22
+MTHKAM041 Kamohelo Mthembu
+18
+WTBLET025 Lethokuhle Witbooi
+18
+BTHMIN005 Minenhle Buthelezi
+20
+MSXOTH014 Othalive Mosia
+20
+BKSMEL008 Melokuhle Beukes
+22
+VSGOKU010 Okuhle Visagie
+20
+DLMKUN031 Kungawo Dlamini
+16
+KHZLWA015 Lwandle Khoza
+16
+MTHLUK009 Luke Mathebula
+18
+RDBMEL026 Melokuhle Radebe
+14
+CHKLUT004 Luthando Chauke
+20
+VSGAMO012 Amogelang Visagie
+18
+MDKLUK012 Luke Madikizela
+20
+DNLOMP019 Omphile Daniels
+16
+HNDROR012 Rorisang Hendricks
+18
+DNLMEL012 Melokuhle Daniels
+20
+BXXMEL023 Melokuhle Booi
+22
+MLXLEB009 Lebogang Moloi
+20
+LWXLEA003 Leano Louw
+20
+MTHOLO031 Olothando Mathebula
+20
+MTHSIP013 Siphosethu Mthembu
+20
+MSXKAM003 Kamohelo Mosia
+20
+DLMHLE005 Hlelokuhle Dlamini
+18
+VSGLET057 Lethokuhle Visagie
+20
+PTRNOA013 Noah Peter
+18
+MLLREN006 Reneilwe Maluleke
+16
+BKSLIK023 Likuwe Beukes
+22
+NGWAMO031 Amohelang Ngwenya
+20
+WLLLUK010 Luke Williams
+20
+NHLBAY012 Bayanda Nhlapo
+18
+NKSLIN018 Lingomso Nkosi
+14
+MTHREL019 Relebohile Mthembu
+20
+MDKIMI022 Iminathi Madikizela
+16
+VNXTSH032 Tshegofatso Van
+20
+MDKJOS016 Joshua Madikizela
+18
+DVDPHE004 Phenyo Davids
+20
+MNGLWA015 Lwandle Moeng
+16
+NKSLWA010 Lwandle Nkosi
+18
+MDSSIP013 Siphosethu Modise
+16
+NHLBAN016 Banele Nhlapo
+20
+BXXROR009 Rorisang Booi
+20
+LYNKAT004 Katleho Olyn
+20
+LYNLUB005 Lubanzi Olyn
+22
+BRHANG009 Angel Abrahams
+18
+MFKOMA013 Omaatla Mofokeng
+18
+BKSLES034 Lesedi Beukes
+20
+KHZEMI002 Emihle Khoza
+16
+MDKBAY010 Bayanda Madikizela
+22
+NDXKAR001 Karabo Ndou
+18
+PTRNOA026 Noah Petersen
+16
+NDXBAN004 Bandile Ndou
+18
+MTHBAY017 Bayanda Mathebula
+20
+BLYAMO048 Amogelang Baloyi
+22
+BLYNAL016 Naledi Baloyi
+20
+HNDOTH002 Othalive Hendricks
+18
+BXXIMI009 Iminathi Booi
+22
+DMSKAT001 Katlego Adams
+18
+NGCKAT022 Katleho Ngcobo
+20
+CLTIMI023 Iminathi Cloete
+20
+WTBKAT007 Katlego Witbooi
+20
+DNLTHA037 Thato Daniels
+20
+MTNKAT044 Katleho Motaung
+20
+MDKJAY009 Jayden Madikizela
+20
+MNSAMO020 Amogelang Mnisi
+18

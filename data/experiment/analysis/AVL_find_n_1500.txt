@@ -1,0 +1,7 @@
+Analysis of AVLApp find opCount when n is 1500:
+Minimum (Best Case):
+2
+Maximum (Worst Case):
+26
+Average:
+19.657333333333334
