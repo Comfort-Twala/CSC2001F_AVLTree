@@ -1,16 +1,19 @@
 # Assignment 2 program makefile
 # Comfort Twala
 
+### VARIABLES ###
 JAVA=/usr/bin/java
 JAVAC=/usr/bin/javac
 JAVADOC=/usr/bin/javadoc
 PYTHON=/usr/bin/python3
+PYTHONENV=env/bin/python3
 .SUFFIXES: .java .class
 SRCDIR=src
 BINDIR=bin
 DOCDIR=doc
 SCRIPTDIR=script
 
+### PART 1: PROGRAM ###
 $(BINDIR)/%.class:$(SRCDIR)/%.java
 		$(JAVAC) -d $(BINDIR)/ -cp $(BINDIR) $<
 
@@ -26,31 +29,48 @@ clean:
 runAVL: $(CLASS_FILES)
 		$(JAVA) -cp $(BINDIR) AccessAVLApp $(ID)
 
+### PART 2: EXPERIMENT ####
+### SETUP ###
+### Setting up virtualenv and installing dependencies
+pip-install:
+		$(PYTHON) -m pip install --user --upgrade pip
+		sudo apt-get install python3-venv
+		$(PYTHON) -m venv env
+		. env/bin/activate &&  $(PYTHONENV) -m pip install -r requirements.txt
+
+clean-install:
+		rm -rf env
+
+### Running Experiment
 experiment: $(CLASS_FILES)
 		$(JAVA) -cp $(BINDIR) runExperiment 
-
-docs:
-		$(JAVADOC) -d $(DOCDIR) $(SRCDIR)/*
-
-clean-doc:
-		rm -r $(DOCDIR)/*
 
 clean-exp:
 		$(RM) data/experiment/find/*.txt
 		$(RM) data/experiment/insert/*.txt
 
+### Running analysis
 analyse:
-		$(PYTHON) $(SCRIPTDIR)/analyser.py
+		$(PYTHONENV) $(SCRIPTDIR)/analyser.py
 
 clean-analysis:
 		$(RM) data/experiment/analysis/*
 
+### Gathering stats 
 stats:
-		$(PYTHON) $(SCRIPTDIR)/grapher.py
-		$(PYTHON) $(SCRIPTDIR)/combinedStats.py
+		$(PYTHONENV) $(SCRIPTDIR)/grapher.py
+		$(PYTHONENV) $(SCRIPTDIR)/combinedStats.py
 
 clean-stats:
 		$(RM) data/experiment/results/*
 
+### Visualising AVL algorithm
 visualise:
-		$(PYTHON) $(SCRIPTDIR)/visualise.py $(n)
+		$(PYTHONENV) $(SCRIPTDIR)/visualise.py $(n)
+
+### Documentation
+docs:
+		$(JAVADOC) -d $(DOCDIR) $(SRCDIR)/*
+
+clean-doc:
+		rm -r $(DOCDIR)/*

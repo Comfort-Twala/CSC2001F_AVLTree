@@ -21,8 +21,11 @@ $ make runAVL ID=<studentID>
 ## Part 2: Experiment
 ## Setup
 ### Dependencies installation
+#### Python scripts require external dependencies which need to be installed.
+#### Run the following command to create virtual environment and install dependencies 
+### NB! Requires sudo privileges 
 ```
-pip3 install -r requirements.txt
+$ make pip-install
 ```
 ### run Experiment
 ```
