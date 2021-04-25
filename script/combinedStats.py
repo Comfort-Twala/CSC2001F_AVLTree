@@ -70,7 +70,6 @@ def graphData(dataFrame):
     plt.xlabel("Subset (n)")
     plt.ylabel("operation count")
     plt.savefig(f'data/experiment/results/combined_graph.png')
-    plt.show()
 
 if __name__ == "__main__":
     main()
