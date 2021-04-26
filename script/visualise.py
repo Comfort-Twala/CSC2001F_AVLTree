@@ -9,7 +9,7 @@ Python script to:
 
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
-import pathlib, os, time, sys
+import pathlib, os, time, sys, random
 
 def main():
     if len(sys.argv[1]) != 0:
@@ -17,7 +17,8 @@ def main():
     else:
         cap = 31
     
-    data = populate('data/experiment/insert/AVL_insert_n_500.txt', cap)
+    n = random.choice(range(500, 5001, 500))
+    data = populate(f'data/experiment/insert/AVL_insert_n_{n}.txt', cap)
     fields = openBrowser()
     insert(fields, data[1:])
     search(fields, data[1:])
